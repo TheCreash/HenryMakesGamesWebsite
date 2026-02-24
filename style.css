@@ -1,0 +1,14 @@
+body {
+  background-color: darkblue;
+}
+
+h1 {
+  font-family: Courier New;
+  color: wheat;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
