@@ -46,6 +46,7 @@ p {
 .topnav a:hover {
   background-color: #ddd;
   color: black;
+  border-radius: 15 px;
 }
 
 /* Add a color to the active/current link */
